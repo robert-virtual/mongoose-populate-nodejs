@@ -1,0 +1,16 @@
+GET http://localhost:3000/api/authors
+
+###
+
+POST http://localhost:3000/api/authors/book/6124872ac5e41c01b448827d
+
+###
+
+POST http://localhost:3000/api/authors
+Content-Type: application/json
+
+{
+    "name":"Emerson Castillo",
+    "age":16
+}
+###

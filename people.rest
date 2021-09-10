@@ -1,0 +1,13 @@
+GET http://localhost:3000/api/people
+
+###
+
+POST http://localhost:3000/api/people
+Content-Type: application/json
+
+{
+    "name":"Roberto Castillo",
+    "age":20,
+    "stories"
+}
+###

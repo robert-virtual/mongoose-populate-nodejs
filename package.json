@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.13.8"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "dev":"nodemon server.js"
+  },
+  "name": "mongose-populate",
+  "version": "1.0.0",
+  "main": "database.js",
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
